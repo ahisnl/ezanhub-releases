@@ -1,9 +1,11 @@
 {
   "version": "2.1.0",
   "build_date": "2026-06-13",
-  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.1.0/bundle.tar.gz",
+  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.1.0/bundle-v2.1.0.tar.gz",
   "changelog": [
     "Kerahat vakti banner added",
     "Software update improvements"
   ]
 }
+
+
