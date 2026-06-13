@@ -1,9 +1,9 @@
 {
-  "version": "2.0.3",
+  "version": "2.1.0",
   "build_date": "2026-06-13",
-  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.0.3/bundle.tar.gz",
+  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.1.0/bundle.tar.gz",
   "changelog": [
-    "Software update tab added",
-    "Kerahat vakti indicator"
+    "Kerahat vakti banner added",
+    "Software update improvements"
   ]
 }
