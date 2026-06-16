@@ -1,11 +1,10 @@
 {
-  "version": "2.1.0",
-  "build_date": "2026-06-13",
-  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.1.0/bundle-v2.1.0.tar.gz",
+  "version": "2.1.2",
+  "build_date": "2026-06-16",
   "changelog": [
-    "Kerahat vakti banner added",
-    "Software update improvements"
-  ]
+    "WiFi: forget & reconnect now work reliably",
+    "Update screen shows clear connection errors",
+    "Performance and stability improvements"
+  ],
+  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.1.2/ezanhub_2.1.2.tar.gz"
 }
-
-
