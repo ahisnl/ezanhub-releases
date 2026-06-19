@@ -1,13 +1,12 @@
 {
-  "version": "2.1.4",
-  "build_date": "2026-06-18",
+  "version": "2.1.5",
+  "build_date": "2026-06-19",
   "changelog": [
-    "Rebuilt card swiping — smooth, no more stuck swipes",
-    "Live WiFi/Ethernet status (detects cable unplug)",
-    "24 new themes + grouped theme picker",
-    "Bigger, themed on-screen keyboard",
-    "Consistent settings layout, fonts and button colors",
-    "Friendlier update & connection error messages"
+    "Prayer times now auto-recover when the connection returns (no reboot)",
+    "WiFi: tap a saved network for Connect / new password / Forget",
+    "WiFi: reset all saved networks for a clean slate",
+    "Faster, lighter home screen",
+    "Various stability fixes"
   ],
-  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.1.4/ezanhub_2.1.4.tar.gz"
+  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.1.5/ezanhub_2.1.5.tar.gz"
 }
