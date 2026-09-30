@@ -1,12 +1,20 @@
 {
-  "version": "2.1.5",
-  "build_date": "2026-06-19",
+  "build_date": "2026-09-30",
   "changelog": [
-    "Prayer times now auto-recover when the connection returns (no reboot)",
-    "WiFi: tap a saved network for Connect / new password / Forget",
-    "WiFi: reset all saved networks for a clean slate",
-    "Faster, lighter home screen",
-    "Various stability fixes"
+    "Grotere instellingentekst en directe navigatie zonder overgangseffecten",
+    "Duidelijke gebedsranden en actieve markering ook zonder tijden van morgen",
+    "Betrouwbaardere wifi met annuleren en duidelijke foutmeldingen",
+    "Bestaande klok centraal zonder internet en directe netwerkinstellingen",
+    "Werkende volumeknoppen voor Koran en gebedsoproepen",
+    "Bijzondere dagen gecontroleerd tegen de Diyanet-kalender",
+    "Minder onnodig hertekenen en lokale lettertypen en Koranteksten",
+    "Gecontroleerde updates met herstel van de vorige versie"
   ],
-  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.1.5/ezanhub_2.1.5.tar.gz"
+  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.2.1/ezanhub_2.2.1.tar.gz",
+  "minimum_glibc": "2.34",
+  "pilot_only": false,
+  "platform": "linux-arm64",
+  "release_status": "stable",
+  "sha256": "0e9ae38d182fd7fe519abb96f1bc5a6d321fc75560c7e812833f7b2f851d23c7",
+  "version": "2.2.1"
 }
