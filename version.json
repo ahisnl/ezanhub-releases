@@ -1,20 +1,17 @@
 {
   "build_date": "2026-09-30",
   "changelog": [
-    "Grotere instellingentekst en directe navigatie zonder overgangseffecten",
-    "Duidelijke gebedsranden en actieve markering ook zonder tijden van morgen",
-    "Betrouwbaardere wifi met annuleren en duidelijke foutmeldingen",
-    "Bestaande klok centraal zonder internet en directe netwerkinstellingen",
-    "Werkende volumeknoppen voor Koran en gebedsoproepen",
-    "Bijzondere dagen gecontroleerd tegen de Diyanet-kalender",
-    "Minder onnodig hertekenen en lokale lettertypen en Koranteksten",
-    "Gecontroleerde updates met herstel van de vorige versie"
+    "Kiezen tussen 2,4 en 5 GHz bij beschikbare wifi-netwerken",
+    "Toegangspunten per netwerk en band samengevoegd, met behoud van roaming",
+    "Werkelijke band controleren voordat de netwerkkeuze wordt opgeslagen",
+    "Vorige bandinstelling herstellen bij mislukken of annuleren",
+    "Duidelijkere verbindingsvoortgang en foutmeldingen in alle vijf talen"
   ],
-  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.2.1/ezanhub_2.2.1.tar.gz",
+  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.2.2/ezanhub_2.2.2.tar.gz",
   "minimum_glibc": "2.34",
   "pilot_only": false,
   "platform": "linux-arm64",
   "release_status": "stable",
-  "sha256": "0e9ae38d182fd7fe519abb96f1bc5a6d321fc75560c7e812833f7b2f851d23c7",
-  "version": "2.2.1"
+  "sha256": "9109a9e859d6794c27a9f7039c71fe658d13ecbe91e184a62a149283bb566a28",
+  "version": "2.2.2"
 }
