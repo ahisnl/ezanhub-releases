@@ -1,17 +1,18 @@
 {
-  "build_date": "2026-09-30",
+  "build_date": "2026-11-10",
   "changelog": [
-    "Kiezen tussen 2,4 en 5 GHz bij beschikbare wifi-netwerken",
-    "Toegangspunten per netwerk en band samengevoegd, met behoud van roaming",
-    "Werkelijke band controleren voordat de netwerkkeuze wordt opgeslagen",
-    "Vorige bandinstelling herstellen bij mislukken of annuleren",
-    "Duidelijkere verbindingsvoortgang en foutmeldingen in alle vijf talen"
+    "Schermbeveiliging met foto’s of het vers van de dag; sluit 20 minuten voor elk gebed",
+    "Vers van de dag op het startscherm in alle vijf talen",
+    "Tijdzone van het apparaat volgt de gebedslocatie",
+    "Juiste aftelling en ezan wanneer yatsı na middernacht valt",
+    "Gebedstijden opnieuw ophalen na een mislukte download en zichtbaar zonder internet",
+    "Rustigere aftelling en minder belasting van de processor"
   ],
-  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.2.2/ezanhub_2.2.2.tar.gz",
+  "download_url": "https://github.com/ahisnl/ezanhub-releases/releases/download/v2.3.0/ezanhub_2.3.0.tar.gz",
   "minimum_glibc": "2.34",
   "pilot_only": false,
   "platform": "linux-arm64",
   "release_status": "stable",
-  "sha256": "9109a9e859d6794c27a9f7039c71fe658d13ecbe91e184a62a149283bb566a28",
-  "version": "2.2.2"
+  "sha256": "d34b8921f190468a092df5e18b1d1ffee9ba58e57461a3e51ccde3fd2c7e4263",
+  "version": "2.3.0"
 }
